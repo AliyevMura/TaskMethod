@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\bin\Debug\net6.0\TaskMethod.exe
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\bin\Debug\net6.0\TaskMethod.deps.json
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\bin\Debug\net6.0\TaskMethod.runtimeconfig.json
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\bin\Debug\net6.0\TaskMethod.dll
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\bin\Debug\net6.0\TaskMethod.pdb
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.dll
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\refint\TaskMethod.dll
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.pdb
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\TaskMethod.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\TaskMethod\TaskMethod\obj\Debug\net6.0\ref\TaskMethod.dll
